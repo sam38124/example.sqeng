@@ -1,0 +1,2 @@
+include(':taskhandler')
+rootProject.name = "example.sqeng"
